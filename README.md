@@ -13,9 +13,7 @@
 <br>
 <div align="center">
   <h3>🎥 Gameplay Showcase</h3>
-  <a href="https://www.youtube.com/watch?v=8gfhLzFJm6A">
-    <img src="https://img.youtube.com/vi/8gfhLzFJm6A/maxresdefault.jpg" alt="Watch the Gameplay Demo" width="600">
-  </a>
+  <a href="https://www.youtube.com/watch?v=8gfhLzFJm6A"/>
   <p>
     <em>👆 Click to watch the Gameplay Demo (YouTube)</em>
   </p>
