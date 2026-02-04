@@ -1,5 +1,6 @@
 # 🍺 Order Up: Tavern
-![Uploading Gemini_Generated_Image_bmtm51bmtm51bmtm.png…]()
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_bmtm51bmtm51bmtm" src="https://github.com/user-attachments/assets/87f0d91d-a9aa-40ff-8358-e396f9b2dd05" />
 
 **A First-Person Tavern Management Simulation developed with Unity 6.**
 
