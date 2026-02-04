@@ -10,6 +10,17 @@
 [![Unity 6](https://img.shields.io/badge/Unity-6000.0-black.svg?style=flat&logo=unity)](https://unity.com/)
 [![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Playable Demo](https://img.shields.io/badge/Itch.io-Play_Demo-fa5c5c.svg)](https://barredodavid.itch.io/order-up-tavern)
+<br>
+<div align="center">
+  <h3>🎥 Gameplay Showcase</h3>
+  <a href="https://www.youtube.com/watch?v=8gfhLzFJm6A">
+    <img src="https://img.youtube.com/vi/8gfhLzFJm6A/maxresdefault.jpg" alt="Watch the Gameplay Demo" width="600">
+  </a>
+  <p>
+    <em>👆 Click to watch the Gameplay Demo (YouTube)</em>
+  </p>
+</div>
+<br>
 
 ## 🎮 About The Project
 **Order Up: Tavern** places the player in the shoes of a tavern keeper. The goal is to manage the daily flow of customers, serve drinks with physics-based interactions, maintain cleanliness, and reinvest profits into upgrades.
